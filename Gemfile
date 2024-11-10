@@ -1,7 +1,19 @@
 source "https://rubygems.org"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem "rails", "~> 8.0.0"
+# gem "rails", "~> 8.0.0"
+
+gem "actioncable", "~> 8.0.0"
+gem "actionpack", "~> 8.0.0"
+gem "actiontext", "~> 8.0.0"
+gem "actionview", "~> 8.0.0"
+gem "activejob", "~>8.0.0"
+gem "activemodel", "~>8.0.0"
+gem "activerecord", "~>8.0.0"
+gem "activestorage", "~>8.0.0"
+gem "activesupport", "~>8.0.0"
+gem "railties", "~>8.0.0"
+
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
 gem "propshaft"
 # Use sqlite3 as the database for Active Record
