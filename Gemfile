@@ -3,7 +3,7 @@ source "https://rubygems.org"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 # gem "rails", "~> 8.0.0"
 
-gem "actioncable", "~> 8.0.0"
+gem "actioncable", "~> 8.0.1"
 gem "actionpack", "~> 8.0.0"
 gem "actiontext", "~> 8.0.0"
 gem "actionview", "~> 8.0.0"
